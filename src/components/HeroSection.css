@@ -1,0 +1,24 @@
+
+.hero-section {
+    height: 100vh;
+    background: url('https://cdn.pixabay.com/photo/2024/06/14/10/40/ai-generated-8829471_1280.jpg') center/cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .hero-content h1 {
+    font-size: 3rem;
+  }
+  
+  .hero-content p {
+    font-size: 1.2rem;
+  }
+  
+  .hero-content button {
+    margin-top: 20px;
+  }
+  
+  
